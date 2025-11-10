@@ -1,0 +1,29 @@
+# Maven
+/target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.servletproject/
+*.launch
+
+# IntelliJ (if someone opens it)
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Credentials or config
+persistence.xml
+application.properties
+.env
+
+# Tomcat
+work/
+logs/
